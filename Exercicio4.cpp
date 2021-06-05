@@ -39,8 +39,6 @@ int main()
 		total += resultado[i];
 	}
 	resto = total % 11;
-	//printf("%d",resto);
-	//total = total/11;
 	
 	if (resto < 2)
 	{
